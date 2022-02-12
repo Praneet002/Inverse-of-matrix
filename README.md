@@ -41,3 +41,4 @@ print(inverse)
 ![output](https://github.com/Praneet002/Inverse-of-matrix/blob/main/Inverse%20of%20a%20Matrix.png)
 
 ## RESULT:
+Thus python program to find inverse of matrix is done.

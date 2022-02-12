@@ -21,6 +21,7 @@ End the program.
 
 
 ## PROGRAM:
+```
 import numpy as np
 l1, l2 = [],[]
 r,c= int(input()),int(input())
@@ -34,7 +35,7 @@ print(l2)
 value1= np.array(l2)
 inverse = np.linalg.inv(value1)
 print(inverse)
-
+```
 
 ## OUTPUT:
 
